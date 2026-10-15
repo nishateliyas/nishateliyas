@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishateliyas
+- 👋 Hi, I’m @coralreef
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python, AWS, 
 - 💞️ I’m looking to collaborate on 
